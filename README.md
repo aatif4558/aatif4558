@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aatif Ali</h1>
-<h3 align="center">A Passionate Python Developer from India</h3>
+<h3 align="center">A Passionate <a href="https://www.linkedin.com/13aatif" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> Developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aatif4558&label=Profile%20views&color=0e75b6&style=flat" alt="aatif4558" /> </p>
 
