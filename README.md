@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **imaatifali@gmail.com**
 
-- ⚡ Fun fact **I'm Boring and still you'll get positive vibes.**
+- ⚡ Fun fact **I'm Boring and still you'll get Positive Vibes.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
