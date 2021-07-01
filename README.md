@@ -1,15 +1,11 @@
 <h1 align="center">Hi 👋, I'm Aatif Ali</h1>
-<h3 align="center">A passionate Python Developer from India</h3>
+<h3 align="center">A Passionate Python Developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aatif4558&label=Profile%20views&color=0e75b6&style=flat" alt="aatif4558" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aatif4558" alt="aatif4558" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/13aatifali" target="blank"><img src="https://img.shields.io/twitter/follow/13aatifali?logo=twitter&style=for-the-badge" alt="13aatifali" /></a> </p>
-
-<p align="left"> <a href=<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="13aatif" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/13aatif?trk=profile-badge">Aatif Ali</a></div>
-               target="blank"><img src="https://img.shields.io/twitter/follow/13aatifali?logo=twitter&style=for-the-badge" alt="13aatifali" /></a> </p>
-
 
 
 - 🌱 I’m currently learning **Data Science**
