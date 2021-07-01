@@ -7,6 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/13aatifali" target="blank"><img src="https://img.shields.io/twitter/follow/13aatifali?logo=twitter&style=for-the-badge" alt="13aatifali" /></a> </p>
 
+<p align="left"> <a href=<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="13aatif" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/13aatif?trk=profile-badge">Aatif Ali</a></div>
+               target="blank"><img src="https://img.shields.io/twitter/follow/13aatifali?logo=twitter&style=for-the-badge" alt="13aatifali" /></a> </p>
+
+
+
 - 🌱 I’m currently learning **Data Science**
 
 - 💬 Ask me about **Python**
